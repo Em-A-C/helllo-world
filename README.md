@@ -1,2 +1,2 @@
 # helllo-world
-This repository is for practicing using GitHub 
+Hello, I am Em and I love my dog and the outdoors!
